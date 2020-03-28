@@ -26,11 +26,14 @@ nav {
 }
 
 a,
-a:hover,
 a:active,
 a:visited {
   text-decoration: none;
   color: inherit;
+}
+
+a:hover{
+  color: black;
 }
 
 header {
