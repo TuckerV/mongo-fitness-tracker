@@ -13,9 +13,9 @@ This assignment was a workout tracker. I created a Mongo database with a Mongoos
 
 ### features
 
-![Image description](public\style\images\tracker.png)
-![Image description](public\style\images\dashboard.png)
-![Image description](public\style\images\add-exercise.png)
+![Image description](https://github.com/TuckerV/mongo-fitness-tracker/blob/master/public/style/images/tracker.png)
+![Image description](https://github.com/TuckerV/mongo-fitness-tracker/blob/master/public/style/images/add-exercise.png)
+![Image description](https://github.com/TuckerV/mongo-fitness-tracker/blob/master/public/style/images/dashboard.png)
 
 This application allows the user to create and add workouts to a database and track these workouts in a dashboard. The user can also go in and continue old workouts. 
 
