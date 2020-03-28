@@ -48,13 +48,13 @@ function populateChart(data) {
     type: "line",
     data: {
       labels: [
-        "Sunday",
-        "Monday",
-        "Tuesday",
-        "Wednesday",
-        "Thursday",
-        "Friday",
-        "Saturday"
+        "Workout 1",
+        "Workout 2",
+        "Workout 3",
+        "Workout 4",
+        "Workout 5",
+        "Workout 6",
+        "Workout 7",
       ],
       datasets: [
         {
@@ -96,13 +96,13 @@ function populateChart(data) {
     type: "bar",
     data: {
       labels: [
-        "Sunday",
-        "Monday",
-        "Tuesday",
-        "Wednesday",
-        "Thursday",
-        "Friday",
-        "Saturday",
+        "Workout 1",
+        "Workout 2",
+        "Workout 3",
+        "Workout 4",
+        "Workout 5",
+        "Workout 6",
+        "Workout 7",
       ],
       datasets: [
         {
